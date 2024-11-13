@@ -8,13 +8,13 @@ internal class Program
         {
             new Contact("Сергей", "Довлатов", 79990000010, "serge@example.com"),
             new Contact("Игорь", "Николаев", 79990000001, "igor@example.com"),
+            new Contact("Сергей", "Брин", 799900000013, "serg@example.com"),
             new Contact("Валерий", "Леонтьев", 79990000012, "valera@example.com"),
             new Contact("Анатолий", "Карпов", 79990000011, "anatoly@example.com"),
-            new Contact("Сергей", "Брин", 799900000013, "serg@example.com"),
+            new Contact("Вася", "Петечкин", 799900000014, "vasyan@example.com"),
             new Contact("Иннокентий", "Смоктуновский", 799900000013, "innokentii@example.com"),
-            new Contact("Червь", "Игорь", 799900000014, "chervigor@example.com"), // добавил ещё конаткты и увеличил число записей на одной странице до трёх для наглядности 
-            new Contact("Петя", "Васечкин", 799900000013, "pitrusha@example.com"),
-            new Contact("Вася", "Петечкин", 799900000014, "vasyan@example.com")
+            new Contact("Червь", "Игорь", 799900000014, "chervigor@example.com"), // добавил ещё конаткты, пересортировал и увеличил число записей на одной странице до трёх для наглядности 
+            new Contact("Петя", "Васечкин", 799900000013, "pitrusha@example.com")
         };
 
         while (true)
